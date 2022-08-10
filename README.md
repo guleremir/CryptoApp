@@ -9,9 +9,9 @@ Get Crypto History
 Get Exchanges
 ```
 
-For Start: ` npm i and npm start `
+For Start: ``` npm i and npm start ```
 
-In case you get an error: ` guleremir24@gmail.com `
+In case you get an error: ``` guleremir24@gmail.com ```
 
 ### Homepage
 ![1](https://github.com/guleremir/CryptoApp/blob/main/img/2.png)
